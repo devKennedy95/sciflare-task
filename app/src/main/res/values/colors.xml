@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_shade_100">#616161</color>
+    <color name="primary">#392467</color>
+    <color name="secondary">#5D3587</color>
+    <color name="accent">#FFD1E3</color>
+    <color name="inputStrokeUnselected">#F2F1F7</color>
+    <color name="inputStrokeSelected">#4D375BD1</color>
+    <color name="color_red">#E52600</color>
+</resources>

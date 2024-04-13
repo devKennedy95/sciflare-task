@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sciflare Task</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="complete">Complete</string>
+    <string name="configuration">Configuration</string>
+    <string name="channel">TaskApp</string>
+    <string name="notifications">Notifications</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="sender">Sender</string>
+    <string name="receiver">Receiver</string>
+    <string name="to">To:</string>
+    <string name="type_message">Type your message</string>
+    <string name="send">Send</string>
+
+    <string name="addressE">Enter to address</string>
+    <string name="messageE">Enter to message</string>
+
+    <string name="sms_permission_rationale_message">This app needs sms permission to use this feature. You can grant them in app settings.</string>
+    <string name="need_permission">SMS Permission</string>
+</resources>
